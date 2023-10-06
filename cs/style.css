@@ -1,0 +1,27 @@
+/* Root_start */
+:root
+{--siam_bhai: red; --munna: 16px;}
+/* Root_end */
+
+h4
+{width: 80%; background: linear-gradient(blue,#fff,red); margin: 10% 0%;}
+
+.banner1
+{padding: 10% 0%;}
+.box1{
+    height: 100px;
+    background-color: rgb(12, 22, 22);
+    
+}
+.image
+{position: relative; overflow: hidden;width: 50%; height: 100vh;}
+.image img
+{width: 60%;}
+.hedlin
+{width: 60%; opacity: 0; background-color: #fff; min-height: 59.4vh; position: absolute; left: 0; top: 0%; border: 1px solid red;}
+.hedlin:hover
+{opacity: .8;}
+h1
+{width: 100%; font-weight: bold; font-size: 50px; position: absolute; transform: translate(12vh , 25vh);}
+.box
+{min-height: 20vh; background: linear-gradient(red,#fff,blue);}
